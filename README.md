@@ -22,3 +22,5 @@ Todos los personajes y propuestas son ficticios. Proyecto educativo individual.
 
 ## Comunicado de última hora
 El ministro anuncia que se estudiará la posibilidad de cumplir alguna promesa.
+
+## El Ministerio sobrevive al cambio de ordenador
